@@ -1,3 +1,4 @@
+// Program Latihan Praktikum 2.5.2
 class Kotakk {
     double panjang;
     double lebar;

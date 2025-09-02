@@ -1,3 +1,4 @@
+// Program Latihan Praktikum 2.5.4
 import java.util.Scanner;
 class Balok {
     int p, l, t;

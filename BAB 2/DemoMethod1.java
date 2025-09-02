@@ -1,3 +1,4 @@
+// Program Latihan Praktikum 2.5.1
 class Kotak {
     double panjang;
     double lebar;

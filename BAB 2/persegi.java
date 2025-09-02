@@ -1,3 +1,4 @@
+//Program Latihan Praktikum 2.5.5
 public class persegi {
 
     static int hitungluas(int p, int l) {
