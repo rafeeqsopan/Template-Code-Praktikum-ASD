@@ -1,0 +1,17 @@
+public static void main(String[] args) {
+    SLL list = new SLL();
+    System.out.println("head : " + list.head);
+    System.out.println("tail : " + list.tail);
+
+    list.addLast(new Node());
+    System.out.println("head : " + list.head);
+    System.out.println("tail : " + list.tail);
+
+    list.addLast(new Node());
+    System.out.println("head : " + list.head);
+    System.out.println("tail : " + list.tail);
+
+    list.addLast(new Node());
+    System.out.println("head : " + list.head);
+    System.out.println("tail : " + list.tail);
+}
